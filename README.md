@@ -1,4 +1,4 @@
-# Statistics_Project
+
 Predicting satisfaction in life
 
 Course Project (using R), Statistics and Methodology, Tilburg University 
